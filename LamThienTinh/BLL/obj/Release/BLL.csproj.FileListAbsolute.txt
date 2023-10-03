@@ -1,0 +1,11 @@
+D:\All\C# Projects\LamThienTinh\BLL\bin\Release\BLL.dll
+D:\All\C# Projects\LamThienTinh\BLL\bin\Release\BLL.pdb
+D:\All\C# Projects\LamThienTinh\BLL\obj\Release\BLL.dll
+D:\All\C# Projects\LamThienTinh\BLL\obj\Release\BLL.pdb
+D:\All\C# Projects\LamThienTinh\BLL\bin\Release\MyDatabase.mdf
+D:\All\C# Projects\LamThienTinh\BLL\bin\Release\MyDatabase_log.ldf
+D:\All\C# Projects\LamThienTinh\BLL\bin\Release\DAL.dll
+D:\All\C# Projects\LamThienTinh\BLL\bin\Release\DTO.dll
+D:\All\C# Projects\LamThienTinh\BLL\bin\Release\DAL.pdb
+D:\All\C# Projects\LamThienTinh\BLL\bin\Release\DTO.pdb
+D:\All\C# Projects\LamThienTinh\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache

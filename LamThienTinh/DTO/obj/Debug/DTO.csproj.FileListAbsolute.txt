@@ -1,0 +1,10 @@
+D:\All\C# Projects\LamThienTinh\DTO\bin\Debug\DTO.dll
+D:\All\C# Projects\LamThienTinh\DTO\bin\Debug\DTO.pdb
+D:\All\C# Projects\LamThienTinh\DTO\obj\Debug\DTO.dll
+D:\All\C# Projects\LamThienTinh\DTO\obj\Debug\DTO.pdb
+D:\All\C# Projects\LamThienTinh\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\DTO\bin\Debug\DTO.dll
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\DTO\bin\Debug\DTO.pdb
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\DTO\obj\Debug\DTO.dll
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\DTO\obj\Debug\DTO.pdb

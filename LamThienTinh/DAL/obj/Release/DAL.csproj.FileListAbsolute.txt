@@ -1,0 +1,9 @@
+D:\All\C# Projects\LamThienTinh\DAL\bin\Release\MyDatabase.mdf
+D:\All\C# Projects\LamThienTinh\DAL\bin\Release\MyDatabase_log.ldf
+D:\All\C# Projects\LamThienTinh\DAL\bin\Release\DAL.dll
+D:\All\C# Projects\LamThienTinh\DAL\bin\Release\DAL.pdb
+D:\All\C# Projects\LamThienTinh\DAL\bin\Release\DTO.dll
+D:\All\C# Projects\LamThienTinh\DAL\bin\Release\DTO.pdb
+D:\All\C# Projects\LamThienTinh\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\All\C# Projects\LamThienTinh\DAL\obj\Release\DAL.dll
+D:\All\C# Projects\LamThienTinh\DAL\obj\Release\DAL.pdb

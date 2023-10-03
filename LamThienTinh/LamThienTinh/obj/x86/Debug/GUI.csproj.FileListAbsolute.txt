@@ -1,0 +1,48 @@
+D:\All\C# Projects\LamThienTinh\LamThienTinh\bin\Debug\LamThienTinh.exe
+D:\All\C# Projects\LamThienTinh\LamThienTinh\bin\Debug\LamThienTinh.pdb
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.Properties.Resources.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.exe
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.pdb
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\All\C# Projects\LamThienTinh\LamThienTinh\bin\Debug\MyDatabase.mdf
+D:\All\C# Projects\LamThienTinh\LamThienTinh\bin\Debug\MyDatabase_log.ldf
+D:\All\C# Projects\LamThienTinh\LamThienTinh\bin\Debug\DAL.dll
+D:\All\C# Projects\LamThienTinh\LamThienTinh\bin\Debug\DTO.dll
+D:\All\C# Projects\LamThienTinh\LamThienTinh\bin\Debug\DAL.pdb
+D:\All\C# Projects\LamThienTinh\LamThienTinh\bin\Debug\DTO.pdb
+D:\All\C# Projects\LamThienTinh\LamThienTinh\bin\Debug\LamThienTinh.exe.config
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.MessageDialog.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.ChiTietPhieuGuiForm.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.DSKhachHangForm.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.DSHangGuiForm.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.ConfirmDialog.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.ThongKeForm.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.BD8_BD10Form.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.ChonItemsForm.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.LenTuyenPhatForm.resources
+D:\All\C# Projects\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.Home.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\bin\Debug\LamThienTinh.exe.config
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.exe
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.pdb
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.BD8_BD10Form.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.ChiTietPhieuGuiForm.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.ConfirmDialog.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.ChonItemsForm.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.DSHangGuiForm.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.DSKhachHangForm.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.LenTuyenPhatForm.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.Home.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.MessageDialog.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.Properties.Resources.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\LamThienTinh.ThongKeForm.resources
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\bin\Debug\MyDatabase.mdf
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\bin\Debug\MyDatabase_log.ldf
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\bin\Debug\LamThienTinh.exe
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\bin\Debug\LamThienTinh.pdb
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\bin\Debug\DAL.dll
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\bin\Debug\DTO.dll
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\bin\Debug\DAL.pdb
+D:\All\C# Projects\Quản lý bưu kiện trong bưu điện TP Rạch Giá\LamThienTinh\LamThienTinh\bin\Debug\DTO.pdb

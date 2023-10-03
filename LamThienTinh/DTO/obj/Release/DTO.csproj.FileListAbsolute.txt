@@ -1,0 +1,4 @@
+D:\All\C# Projects\LamThienTinh\DTO\bin\Release\DTO.dll
+D:\All\C# Projects\LamThienTinh\DTO\bin\Release\DTO.pdb
+D:\All\C# Projects\LamThienTinh\DTO\obj\Release\DTO.dll
+D:\All\C# Projects\LamThienTinh\DTO\obj\Release\DTO.pdb
